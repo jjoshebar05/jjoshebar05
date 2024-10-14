@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjoshebar05
 - 👀 I’m interested in expanding my network and coding knowledge
-- 🌱 I’m currently learning Programming I (CS111)
+- 🌱 I’m currently learning Python/Programming I at UIC (CS111)
 - 💞️ I’m looking to collaborate on a Python project
 - 📫 How to reach me ljoshua513@gmail.com
 - 😄 Pronouns: he/him
