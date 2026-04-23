@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello!!<br><br>I am Joshua Ebarvia, a computer science major at University of Illinois Chicago<br><br>Sharing my passions through code and my journey in tech<br><br>Currently learning more about UI/UX and interested in medical software engineering
+# 💫 Hello!!
+I am Joshua Ebarvia, a computer science major at University of Illinois Chicago<br><br>Sharing my passions through code and my journey in tech<br><br>Currently learning more about UI/UX and interested in medical software engineering
 
 
 ## 🌐 Socials:
