@@ -1,6 +1,9 @@
 # 💫 Hello!!
-I am Joshua Ebarvia, a computer science major at University of Illinois Chicago<br><br>Sharing my passions through code and my journey in tech<br><br>Currently learning more about UI/UX and interested in medical software engineering
+I’m Joshua, a Computer Science student at the University of Illinois Chicago with a focus on software engineering, user‑centered design, and applied machine learning. 
 
+I enjoy showing my passion and interests through code and building systems that balance clean architecture with thoughtful UX/UI. Whether it’s implementing algorithms in C/C++, developing full‑stack applications with React and Flask, or exploring how I can impact real-world domains like medical software.
+
+I’m driven by the intersection of logic and creativity, and I’m always looking for opportunities to learn, collaborate, and build tools that genuinely help people.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-ebarvia-31490827b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ljoshua513@gmail.com) 
